@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-y = np.array([35,25,25,15])
+y = np.array([30,25,25,15])
 mylabels = ["apples","bananas","cherries","dates"]
 myexplode = [0.2,0,0,0]
 
